@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/dennysihol" target="blank"><img src="https://img.shields.io/twitter/follow/dennysihol?logo=twitter&style=for-the-badge" alt="dennysihol" /></a> </p>
 
-- 🔭 I’m currently working on [PinjamDuit Mobile App Revamp](https://github.com/dennysihol/sali_hepeng)
+- 🔭 I’m currently working as Technical Project Manager at Indonesia Financial Group
 
 - 🌱 I’m currently learning **Flutter & Golang**
 
